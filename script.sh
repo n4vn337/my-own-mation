@@ -1,4 +1,3 @@
-n4vn337@navneet:~/Desktop$ cat script.sh
 #!/usr/bin/bash
 
 # functions
